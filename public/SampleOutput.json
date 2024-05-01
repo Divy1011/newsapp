@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Faisal Mahmud",
+      "title": "Bangladesh cricket star Shakib Al Hasan’s election run divides hometown",
+      "description": "The country’s biggest sporting icon is fighting for the ruling party in the January 7 vote, boycotted by the opposition.",
+      "url": "https://www.aljazeera.com/sports/2024/1/2/bangladesh-cricket-star-shakib-al-hasans-election-run-divides-hometown",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/DSC_0779-1704194543.jpeg?resize=1920%2C1440",
+      "publishedAt": "2024-01-02T12:17:29Z",
+      "content": "Dhaka, Bangladesh In Magura, a sleepy town in southwest Bangladesh, about 168km (104 miles) from capital Dhaka, more than a thousand people are gathered outside a circular-shaped auditorium.\r\nThe cri… [+7534 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Matthew Sullivan",
+      "title": "Clarke’s radical plan to save Test cricket",
+      "description": "Michael Clarke says “it’s sad to see” South Africa’s shock squad announcement for the tour of New Zealand signal the likely demise of Test cricket.",
+      "url": "https://www.news.com.au/sport/cricket/sad-to-see-michael-clarkes-radical-plan-to-save-test-cricket-amid-flabbergasting-move/news-story/c85da16426ae5de992117aa28474b752",
+      "urlToImage": "https://content.api.news/v3/images/bin/5d52f459da671dadc5ee6a3783873c16",
+      "publishedAt": "2024-01-02T11:21:00Z",
+      "content": "Michael Clarke says “it’s sad to see” South Africa’s shock squad announcement for the tour of New Zealand signal the likely demise of Test cricket.\r\nThe cricket world reacted with sadness and anger w… [+3319 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
